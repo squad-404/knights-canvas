@@ -28,6 +28,6 @@ const image = await new ling.Goodbye()
 
 ## Credits
 
-Made by [LING MO 🇮🇱](https://github.com/Not-found-squad) with ❤️  
+Made by [LINZ](https://github.com/Not-found-squad) with ❤️  
 Thanks to [LEN](https://github.com/lenz-cmd) for his help !
 # knights-canvas
