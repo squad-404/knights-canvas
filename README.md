@@ -24,7 +24,7 @@ const image = await new ling.Goodbye()
  
 ```
 ## IMAGE 
-<img src="https://pandal.page/imgs/imgs/60b0a4097c902.jpg" height="250"></img>
+<img src="https://pandal.page/imgs/imgs/60b0ad54166ef.jpg" height="250"></img>
 
 ## Credits
 
