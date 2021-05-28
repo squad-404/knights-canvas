@@ -1,0 +1,32 @@
+{
+  "name": "knights-canvas",
+  "version": "1.0.0",
+  "description": "BY LINZ / L-M0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Not-found-squad/knights-canvas.git"
+  },
+  "keywords": [
+    "swiftcord",
+    "canvas",
+    "canvas discord",
+    "discord canvas",
+    "html",
+    "discord js",
+    "baileys",
+    "herokuapp"
+  ],
+  "author": "LINZ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/not-found-squad/knights-canvas/issues"
+  },
+  "homepage": "https://github.com/not-found-squad/knights-canvas#readme",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "fortnite-9812": "^1.0.4",
+    "fortnite": "^4.3.2",
+    "moment": "^2.29.1"
+  }
+}
