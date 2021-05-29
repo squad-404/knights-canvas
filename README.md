@@ -1,7 +1,7 @@
 ## Installation
 
 ```bash
-$ npm install knights-canva
+$ npm install knights-canvas
 ```
 
 ## Example GoodBye
